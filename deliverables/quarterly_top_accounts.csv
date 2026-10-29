@@ -1,0 +1,13 @@
+quarter,revenue_rank,account_id,account_name,revenue_eur
+2025-01-01,1,ACC-006,Alpenblick Maschinenbau,300960.32
+2025-01-01,2,ACC-002,Brouwer Logistiek,271250.00
+2025-01-01,3,ACC-005,Haarlem Instruments,245750.00
+2025-04-01,1,ACC-017,Porto Digital Labs,519364.21
+2025-04-01,2,ACC-003,Batavia Foods,319250.00
+2025-04-01,3,ACC-015,Cordoba Agro,314500.00
+2025-07-01,1,ACC-004,Amstel Analytics,418000.00
+2025-07-01,2,ACC-007,Nordwind Energie,276250.00
+2025-07-01,3,ACC-002,Brouwer Logistiek,233000.00
+2025-10-01,1,ACC-024,Bergen Offshore,491054.33
+2025-10-01,2,ACC-021,Vega Holding,453000.00
+2025-10-01,3,ACC-013,Iberia Pharma Solutions,399000.00

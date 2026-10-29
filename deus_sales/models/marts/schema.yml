@@ -1,0 +1,29 @@
+
+version: 2
+
+models:
+  - name: monthly_team_sales
+    columns:
+      - name: month
+        data_tests:
+          - not_null
+
+      - name: team
+        data_tests:
+          - not_null
+
+      - name: target_revenue_eur
+        data_tests:
+          - not_null
+
+      - name: actual_revenue_eur
+        data_tests:
+          - not_null
+
+      - name: variance_to_target_eur
+        data_tests:
+          - not_null
+
+      - name: target_attainment_pct
+        data_tests:
+          - not_null

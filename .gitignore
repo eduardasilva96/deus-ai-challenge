@@ -1,0 +1,20 @@
+
+# Local DuckDB databases
+*.duckdb
+*.duckdb.wal
+
+# dbt generated artifacts
+**/target/
+**/dbt_packages/
+logs/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example

@@ -1,0 +1,25 @@
+account_id,account_name,industry,country
+ACC-001,Helios Retail Group,Retail,NL
+ACC-002,Brouwer Logistiek,Logistics,NL
+ACC-003,Batavia Foods,Retail,NL
+ACC-004,Amstel Analytics,Software,NL
+ACC-005,Haarlem Instruments,Manufacturing,NL
+ACC-006,Alpenblick Maschinenbau,Manufacturing,DE
+ACC-007,Nordwind Energie,Energy,DE
+ACC-008,Kessler Automotive,Manufacturing,DE
+ACC-009,Rhein Chemie Partner,Chemicals,DE
+ACC-010,Elbe Logistics,Logistics,DE
+ACC-011,Zenit Insurance,Financial Services,DE
+ACC-012,Costa Verde Turismo,Travel,ES
+ACC-013,Iberia Pharma Solutions,Pharma,ES
+ACC-014,Granada Solar,Energy,ES
+ACC-015,Cordoba Agro,Agriculture,ES
+ACC-016,Lisboa Telecom,Telecom,PT
+ACC-017,Porto Digital Labs,Software,PT
+ACC-018,Douro Foods,Retail,PT
+ACC-019,Flandria Packaging,Manufacturing,BE
+ACC-020,Bruges Maritime,Logistics,BE
+ACC-021,Vega Holding,Financial Services,BE
+ACC-022,Nova Textiles,Manufacturing,PT
+ACC-023,Delta Marine Services,Logistics,NL
+ACC-024,Bergen Offshore,Energy,NL
